@@ -1,0 +1,18 @@
+/** Add css rules here for your application. */
+	/** Example rules used by the template application (remove for your app) */
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #777777;
+	text-align: left;
+	margin-left: 10px;
+	margin-bottom: 0px;
+}
+
+h5 {
+	font-weight: bold;
+	color: #AAA;
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 0px;
+}
